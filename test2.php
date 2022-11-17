@@ -25,7 +25,7 @@
 <p>И редкий солнца луч, и первые морозы,</p> 
 <p>И отдаленные седой зимы угрозы.</p>
 </section>
-<img src="C:/Users/Student/Pictures/images/osen.jpg"/>
+<img src="C\Apache24\htdocs\up2\osen.jpg"/>
 
 </body>
 </html>
