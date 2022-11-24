@@ -18,7 +18,7 @@
         $("#enter").click(function(){
             //let fname=$("fn").val();
             //let otch=$("ot").val();
-            //let lname=$("ln").val();
+            //let lname=$("ln").val(); 
             //let date_r==$("dt").val();
             //let tel=$("tl").val();
             $.ajax({
